@@ -1,0 +1,5 @@
+component_id,name,category,quantity,location,notes
+RES-001,220 Ohm Resistor,Resistor,100,Box A1,1/4 W
+CAP-001,100 uF Capacitor,Capacitor,25,Box A2,25 V
+LED-001,Red LED,LED,40,Box B1,5 mm
+DIO-001,1N4007 Diode,Diode,20,Box B2,Rectifier
